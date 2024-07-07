@@ -1,5 +1,5 @@
 # Body-Fitness-Web
-A Fitness website dedicated to promoting physical well-being and health.
+A simple BodyFitness website dedicated to promoting physical well-being and health.
 <br>
 To check the website:-
 <br>
